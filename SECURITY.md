@@ -1,6 +1,6 @@
 # Security
 
-Never commit:
+Never commit or hardcode the values:
 
 - OpenAI API keys
 - Google OAuth tokens or credentials
